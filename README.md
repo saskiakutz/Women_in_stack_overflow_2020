@@ -1,14 +1,14 @@
-# Women in Stackoverflow survey 2020
+# Women in Stack Overflow survey 2020
 
-Analysis of some aspects of the female part in the Stackoverflow survey 2020.
+Analysis of some aspects of the female part in the Stack Overflow survey 2020.
 
 ## Motivation
 
-Stackoverflow has been surveying its users and contributors yearly since 2011. Over the years, this questionnaire has
+Stack Overflow has been surveying its users and contributors yearly since 2011. Over the years, this questionnaire has
 developed into a survey to understand the participants' interests in technologies or frameworks, but moreover, it seeks
 to understand people's diversity in programming worldwide.
 
-Thus, the Stackoverflow survey 2020 offers an excellent opportunity to figure out more about women in programming.
+Thus, the Stack Overflow survey 2020 offers an excellent opportunity to figure out more about women in programming.
 
 ## Libraries
 
@@ -22,8 +22,8 @@ The libraries used for this work are:
 The following files are provided in this repository:
 
 - requirements.txt: for facilitated import of the required packages
-- stackoverflow_survey_2020.ipynb: the code for analysis of the Stackoverflow data
-- README_2020.txt: the official README file published by Stackoverflow with the explanation of their files.
+- stackoverflow_survey_2020.ipynb: the code for analysis of the Stack Overflow data
+- README_2020.txt: the official README file published by Stack Overflow with the explanation of their files.
 - so_survey_2020.pdf: official survey
 - survey_results_public.csv: public results of the survey
 - survey_results_schema.csv: schema relating the survey questions to the columns of the public data
@@ -37,5 +37,5 @@ these women.
 
 ## Acknowledgement
 
-The Stackoverflow survey 2020 data were published by Stackoverflow as open-source data and can be found
+The Stack Overflow survey 2020 data were published by Stack Overflow as open-source data and can be found
 at https://insights.stackoverflow.com/survey.
