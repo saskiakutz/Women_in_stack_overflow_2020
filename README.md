@@ -10,7 +10,7 @@ to understand people's diversity in programming worldwide.
 
 Thus, the Stack Overflow survey 2020 offers an excellent opportunity to figure out more about women in programming.
 
-The corresponding medium article can be found at https://saskia-kutz.medium.com/who-are-the-women-in-the-stack-overflow-survey-2020-13dbe929052c.
+The corresponding medium article can be found at [here](https://saskia-kutz.medium.com/who-are-the-women-in-the-stack-overflow-survey-2020-13dbe929052c).
 
 ## Libraries
 
